@@ -1,6 +1,5 @@
 # Krimehotpot
 crime hotspot detection using geofencing and geospatial anyalsis
-Crime Hotspot Detection
 
 Overview
 
